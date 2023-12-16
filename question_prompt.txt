@@ -1,0 +1,8 @@
+Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n
+### Instruction:\n
+User Input: What are the uses of {MEDICINE}? \n
+User Input: {MEDICINE}?\n
+User Input: What are the side effects of {MEDICINE}? \n\n
+### Response:\n 
+Uses: {MEDICINE} is commonly used to treat {USES}.\n
+Side Effects: {MEDICINE} normally causes {EFFECTS}.
